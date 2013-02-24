@@ -1,0 +1,4 @@
+AmanatsuSampleShooting
+======================
+
+Amanatsu sample.
