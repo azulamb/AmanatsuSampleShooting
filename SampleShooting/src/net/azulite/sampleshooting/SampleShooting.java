@@ -11,6 +11,6 @@ public class SampleShooting extends Activity
   protected void onCreate( Bundle savedInstanceState )
   {
     super.onCreate( savedInstanceState );
-    setContentView( Amanatsu.autoRunAmanatsu( this, new GameView() ) );
+    setContentView( Amanatsu.autoRunAmanatsu( this, new OP() ) );
   }
 }
